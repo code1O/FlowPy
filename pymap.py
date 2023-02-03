@@ -30,11 +30,6 @@ import pyautogui as pyt
 # =====================================
 
 
-def checkStatus():
-   if True:
-      clear = lambda: os.system('cls')
-      clear()
-      print(colored(f"If this appears it´s because everything is fine, good job :) ", "green"))
 
 
 class commands:
@@ -324,4 +319,6 @@ class callKeys:
       if kb.is_pressed(keys):
          playsound(pth)  
 if __name__ == '__main__':
-   True
+      clear = lambda: os.system('cls')
+      clear()
+      print(colored(f"If this appears it´s because everything is fine, good job :) ", "green"))

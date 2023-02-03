@@ -17,11 +17,8 @@ import os
 from os import path
 import psutil
 from synthesizer import Synthesizer, Waveform, Player
-from FlowPy.mus import musnotes
 import keyboard as kb
 import playsound
-import FlowPy.mus as muss
-from FlowPy.keys import keynum, ks, nums
 import pyautogui as pyt
 
 

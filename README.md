@@ -9,7 +9,7 @@ from pyttsx3, pyautogui, os (default module) & more..
 
                      IS A VIRUS??
 
-NO, isn´t a virus, is library that simplifies some functions
+NO, isn´t a virus, it´s a library that simplifies some functions
 & makes it easier to programm with that
 
 

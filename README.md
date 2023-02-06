@@ -3,7 +3,7 @@ Python library that makes programming easier
 
 -------------------------------------------------------------------
                         FlowPy
---------------------------------------------------------------------
+
 
 
                      WHAT IS ????
@@ -29,3 +29,5 @@ It´s 100% free LOL
 
 
 Yes but not like a destroyer virus, it may works like a prank virus
+
+--------------------------------------------------------------------
